@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last warning to all the inhabitants of London.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88741</idno><idno type="EEBO-CITATION">99861363</idno>
+  <idno type="VID">113496</idno>
+  <idno type="EEBO-PROQUEST">2248528460</idno>
+  
+            <idno type="STC">Wing L512</idno>
+            <idno type="STC">Thomason E328_24</idno>
+            <idno type="STC">ESTC R200683</idno>
+            <idno type="PROQUEST">99861363</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861363e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113496)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E328[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last warning to all the inhabitants of London.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Larner's last press,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing, which has 1645/6 for publication date.</note>
+                  <note>In favour of the Independents--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "20 March 1645". [i.e. 1646, according to Lady Day dating].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Kings and rulers --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113496:1"/>
+            <head>
+               <hi>The Last WARNING</hi> To all the <hi>INHABITANTS</hi> Of LONDON.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">W</seg>Ell meaning People,</salute>
+            </opener>
+            <p>you are ever most lyable to be deceived; the reason is, because you trust to those that give you good words, and propose things pleasing to some unreasonable humour in you: rather then to those that doe you good in<g ref="char:EOLhyphen"/>deed, and ever propose things just and profitable.</p>
+            <p>For example; some of you have an unreasonable humour in you, for maintenance of a Kingly Government: <hi>a King you will have, or dye without a King,</hi> all you have is nothing, Common-Wealth and Parliament, and all Government perish and be confounded, if you may not have a King: and hee that will nourish this humour in you, though he cannot shew you one good act that ever any King did vol<g ref="char:EOLhyphen"/>luntarily for Good of the People: though your selves, if you will ex<g ref="char:EOLhyphen"/>amine Storyes, or your owne experience, may produce thousands of Oppressions, Murthers and other tyrannyes: though no condition of Mankind ever did so many, so intollerable mischiefs, though it can<g ref="char:EOLhyphen"/>not
+<pb n="2" facs="tcp:113496:2"/> be said to what use they serve, or that there is any use of them, except to debauch and vex a People: yet if any will but feed your hu<g ref="char:EOLhyphen"/>mour, and sooth you therein, though you know them to be meere worldly covetous Wretches, frawdulent over-reaching Varlets; or (but few yeers since,) Pattentees, and Prowling Projectors; these neverthelesse are your onely Councellours, these you put into Offi<g ref="char:EOLhyphen"/>ces of trust, and then they may leade you whether they please, and with Oylie tongues, and flattering long Speeches, charme you into a beliefe of any thing; and by Art and subtilty, cause you to hate and abhorre those that would purge this corrupt humour out of you, and show you a more just and rationall way of Government then that of Kings.</p>
+            <p>Others who are not troubled so much with this humour in <hi>Civill Government,</hi> are troubled with one as u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reas<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nable concerning <hi>Eccle<g ref="char:EOLhyphen"/>siasticall Government:</hi> that is, They are undone, ruined, torne in pie<g ref="char:EOLhyphen"/>ces with rents and Divisions, if all the people may not be compelled to <hi>Worship God</hi> as they doe, or in one Uniforme way, by the State esta<g ref="char:EOLhyphen"/>blished: and they are so willingly blinde herein, that although the <hi>Word of God</hi> alloweth every one to be fully perswaded in his owne minde; and declareth that to be sinfull, which is done otherwise: though you know those <hi>Clergy-men</hi> that annimate you herein, to be principally such as complyed with the Tyranny and Superstition of the <hi>Episcopall Prelates,</hi> and now ayme to establish the like Tyranny in the hands of <hi>Presbyterian Prelates;</hi> though you know those <hi>Lay-men,</hi> that sooth this humour in you, to be such as endeavour to errect a new kind of Tyranny over the Common-wealth, such as already ap<g ref="char:EOLhyphen"/>peareth in your City, and is maintained by <hi>Irenaeus Lisimachus;</hi> though you know, there is nothing tendeth more to the dissolving of that Army, that under God hath been your preservation; or can so miserably teare you into Rents and Divisions, leaving you all a naked disunited prey to those that of purpose have begotten, and nourish these destructive <hi>humours</hi> in you, (without which, they know it were in vaine to attempt your bondage;) Yet so wedded are you to this humour, as those who smooth and flatter you therein, are in your esteem, as Angels of Light.</p>
+            <pb n="3" facs="tcp:113496:2"/>
+            <p>Either of these two most unreasonable <hi>Humours,</hi> are enough to un<g ref="char:EOLhyphen"/>doe you: and to perplex, if not frustrate all the labours of Parlia<g ref="char:EOLhyphen"/>ment, to preserve you: and is likely to bring a new confusion upon the Common-wealth.</p>
+            <div type="part">
+               <head>You shall see how.</head>
+               <p>By the first of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se, you are alwayes ready and prepared to receive the King in againe upon any Conditions, notwithstanding all his blood-shed and perfidiousnesse; and thereby encourage and assist his Agents in their under-hand Workings and Projectings against the intentions and Proceedings of <hi>Parliament;</hi> by which also hath b<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> occasioned most horrible and Bloody <hi>Plotts</hi> against this City, and crafty devises to Devide the <hi>City from the Parliament,</hi> and to receive the King, whether the <hi>Parliament</hi> would or not; and both these will not be given over, so long as this humour remaineth in you: but this <hi>Great Citie,</hi> the <hi>Parliament,</hi> your selves, your sonnes and Families, (however you are or may be flattered,) will be continually liable to a sudden inevitable Ruine and surprisall.</p>
+               <p>And (all along) this in you hath caused such an irresolution and uncertainty in Proceedings, as hath lengthened the Warre, and will continue the same, to the wastings of your Trades, and consuming of the Common-wealth: so long as this humour remaineth in you, <hi>Ireland</hi> will be incouraged to furnish Forces, <hi>Holland</hi> will stand worse then Neuter, <hi>Denmarke, France</hi> and <hi>Spaine</hi> will not be meere lookers on; the ill-affected throughout <hi>England, Scotland</hi> and <hi>Wales</hi> will doe the worst they can: And beleeve it, these are not to be slighted; if therefore you shall continue in this perversnesse of judgement, and thereby draw insupportable burthens upon your selves, and in the end be ruined or enslaved, your selves are cause thereof; and in the day of your affliction, with horrour and dread<g ref="char:EOLhyphen"/>full amazement, you shall heare a voice within you, saying, <hi>Thy de<g ref="char:EOLhyphen"/>structi n is of thy self.</hi>
+               </p>
+               <p>Therefore in time suppresse this unreasonable <hi>humour</hi> in you, and all fear of the open and revealed enemy, will be at an end, refer your selves as you ought to doe in this Controversy with the King, to the wise<g ref="char:EOLhyphen"/>dome
+<pb n="4" facs="tcp:113496:3"/> of Parliament, and neither desire, nor endeavour to anticipate them in their dealings with him, and his adhearents, and then you and your City will be safe and happy, be no longer respectors of per<g ref="char:EOLhyphen"/>sons in judgement; and your scales will soon fall from off your eyes, and then you will see cleerly that the Parliament hath dealt but too too favourably with the King, <hi>and that mercy to the wicked, is cruelty to the good: abhorre those Serpentine Counsellors, that insinuate, and maintaine the fore-mentioned humour in you, and be assured and confi<g ref="char:EOLhyphen"/>dent, that though they may be cloathed thick and three-fold in sheepes-cloathing, yet inwardly they are Ravening Wolves, that would so per<g ref="char:EOLhyphen"/>swade you.</hi>
+               </p>
+               <p>Your other most unreasonable and un-Christian humour, pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>king you to be uncivilly importunate with the <hi>Parliament,</hi> to esta<g ref="char:EOLhyphen"/>blish a <hi>Presbyterian</hi> or compulsive <hi>Church-Gov<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rnment,</hi> all things con<g ref="char:EOLhyphen"/>sidered, threatens a more iminent danger then the former at this time can doe; for if the <hi>Commons</hi> in <hi>Parliament,</hi> should doe as some have procured the <hi>Common-Counsell</hi> to Petition; see in what a <hi>sad Conditi<g ref="char:EOLhyphen"/>on</hi> you would immediately be in: for all the <hi>Independents</hi> and <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pa<g ref="char:EOLhyphen"/>ratists</hi> of all sorts, (than whom the <hi>Parliament</hi> and <hi>Y<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u,</hi> have not found more Constant and sted-fast freinds,) all these must necessari<g ref="char:EOLhyphen"/>ly withdraw their Assistance; for if they cannot be <hi>free to Worship God, (every one of them,) according to their particular Consciences; all</hi> Liberty <hi>to them is taken away; f<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r what is all other</hi> Liberty, <hi>where that is not; al<g ref="char:EOLhyphen"/>so the ARMY, (that hath recovered you out of a most languishing estate) thereupon will instantly be scattered, if not dissolved, so you would be ex<g ref="char:EOLhyphen"/>treamly divided, and distracted amongst your selves at home, and destitute of any assured strength abroad: and whose worke should be eff<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cted hereby? even theirs, whose Maxime it is to devide, and master</hi> You: <hi>and they are those that soothe and flatter you in this pernitious humour, and that com<g ref="char:EOLhyphen"/>ply with your unadvised desires, as farre as they at present are able: and therefore, if you have a minde to be vassallized, be still importunate for suppression of all Private Meetings or</hi> Conventicles, <hi>and compell all sorts of Beleevers to Worship God, as you and your Abbettors shall approve, you cannot want the Assistance of all those that are or would be LORDS over their Brethren, and when by your meanes they have prevailed over those (you and they are pleased to call</hi> Independents <hi>or</hi> Sectaries,) <hi>Your selves must be the next in order to be their slaves and vassalls,) if you look
+<pb n="5" facs="tcp:113496:3"/> for any other measure from them: you will finde your selves most miserably mistaken: but there is good hope the Commons of</hi> England, <hi>(now in Pa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lia<g ref="char:EOLhyphen"/>ment, who are chosen for pres<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvation of all just</hi> Liberty,) <hi>will in no mea<g ref="char:EOLhyphen"/>sure countenance so unjust and dangerous a Designe; Certainly they can<g ref="char:EOLhyphen"/>not so s<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on forget that vigorous Assistance they have alwayes had in their greatest necessities from this People, they have not hitherto abridged them of their</hi> Liberty <hi>freely to Worship God, and since they have had the same, the common enemy of this and all other just</hi> Liberty <hi>hath been brought even to a morsell of bread, and hath no hope of recovery, but in this way of Deviding you: nor hath the</hi> betrusted Commons <hi>permitted this</hi> Liber<g ref="char:EOLhyphen"/>ty <hi>in Pollicy, as you suppose, but in Justice, and upon mature Knowledge, that they neither are, nor can be betrusted to make Lawes to rule men in the practise of Religi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n: hee that is most vassalliz'd in his judgment, with an opinion of Ʋniformity, and of a necessity of suppressing all private</hi> Con<g ref="char:EOLhyphen"/>venticles, <hi>or wayes of</hi> Worship, <hi>but his owne, if hee have any use of his Conscience in his Worship of God; hee must acknowledge, if the Lawes of the Land should bynde him in the least to practice contrary to his owne un<g ref="char:EOLhyphen"/>derstandings, that he cannot obey them without being guilty of willfull sinne against God; for whats<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ever is not of faith, is sinfull: but the cares of this world: the deceitfulness of riches, desire of Lordship, continuance in Office or Honour, Pleasures and Deliciousnesse of Living, have so choak<g ref="char:EOLhyphen"/>ed <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his place of Scripture in too too many, that if men are but of greater Estates then their Neighbours, eat more costly meat, we are finer cloathes, or have but Learning to boast of, they think fowle scorne, if all meaner and playner men will not be ruled by them in the mediate Service of God: regarding more, that themselves be pleased by uniformity, then God displea<g ref="char:EOLhyphen"/>sed by Hypocrisy: you know full well, that these things are thus with ma<g ref="char:EOLhyphen"/>ny of you, and this makes you lyable to be wrought upon by meere State-Religious Persons, so such as onely Personate Religion, to bring their ends about, whose Religion indeed is prudentially, and zealously to dissemble; these are they that frame</hi> Oathes <hi>and</hi> Covenants <hi>for you in such ambigu<g ref="char:EOLhyphen"/>ous expressions like</hi> Delphian Oracles, <hi>that you shall seeme to be bound to doe, or establish any thing they shall desire, though never so absurd or wick<g ref="char:EOLhyphen"/>ed in it self: and interpret for you by degrees, as they finde their strength to encrease, or opportunity to ripen (if you continue in this your corrupt humour,) you will ere long see this kinde of Witch-craft w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rke openly a<g ref="char:EOLhyphen"/>mongst you: some secret smatterings thereof you might perceive, if you
+<pb n="6" facs="tcp:113496:4"/> observed any thing: in some</hi> Scotch Papers <hi>lately Printed, to forelay for an opportunity:</hi> also in a Book called, <hi>TRVTH its MANIFESTO,</hi> written by one <hi>Bucchanon;</hi> and another by one <hi>Baily,</hi> both of that Nation; both endeavouring to allienate your affections from the <hi>Commons,</hi> and to ingratiate the endeavours of that Nation: if they prevaile over you, you will not long be ignorant what a happinesse it is to be befool'd into a <hi>Scotch Paradice,</hi> where the People live as merrily under their Lords <hi>Presbyteriall, Civill,</hi> and <hi>Ecclesiasticall,</hi> as the <hi>Israelites</hi> in <hi>Egypt:</hi> All their zeal, and Covenanting with the high God, you will finde, is for no other ende, then to bring this easily de<g ref="char:EOLhyphen"/>luded Nation under the same bondage, to <hi>Presbyteriall</hi> Lords and Task-masters: this is the thing intended, when you are provoked a<g ref="char:EOLhyphen"/>gainst Sects, when you are put upon Petitions: Petitions after Peti<g ref="char:EOLhyphen"/>tions, all to keep you in a froward humour against a season, that you may be ready to destroy the Sectaries, as they terme your most faithfull friends, which being done, a great, even the greatest Ob<g ref="char:EOLhyphen"/>stacle is removed; for they understand themselves too well, to sub<g ref="char:EOLhyphen"/>mit themselves slavishly to either King, Lords, or Clergy; Then if <hi>Buccanons</hi> poyson worke, you must quarrell with your sole Preser<g ref="char:EOLhyphen"/>vers under God, <hi>the House of Commons,</hi> under the Court-Notion of a <hi>factious Party</hi> there; hindring the <hi>Most Blessed WORKE of RE<g ref="char:EOLhyphen"/>FORMATION;</hi> and it will be then time, no longer to dispute the Garrisons, but to professe the holding of them, for those who will keep and maintaine their <hi>Covenant</hi> according to Scotch Inter<g ref="char:EOLhyphen"/>pretation, which will serve our <hi>English Masters</hi> purposes, as well as theirs: And then being compleatly divided, and in a Totall Con<g ref="char:EOLhyphen"/>fusion, judge and stand amazed, how long your Troubles may con<g ref="char:EOLhyphen"/>tinue! and what is like to be in the end thereof?</p>
+               <p>You cannot be ignorant of a <hi>Prophesy</hi> fore-layed cunningly, to forespeake the bondage of this Nation; as first, <hi>It must be Conquered by the</hi> Romanes, <hi>then by the</hi> Danes <hi>and</hi> Saxons, <hi>after them by the</hi> Nor<g ref="char:EOLhyphen"/>manes, <hi>but the last must be the</hi> Scots. And this <hi>Prophesie</hi> is now more frequent in their mouthes then ever; opportunity makes a Thiefe; therefore look well about you; and keep your Friends firme and close to you; Reforme your Judgements, keep your Covenant in a just Sense, it cannot bind you to enforce <hi>Conscience,</hi> or to molest your Brother under pretence of <hi>Heresy,</hi> or <hi>Schisme;</hi> what you conceive is
+<pb n="7" facs="tcp:113496:4"/> truth, may be an errour; <hi>doe as you would be done unto in all things;</hi> you would not be enforced, therefore force not; Observe rather the ways of Christ and his Ministers, then the wayes of the <hi>Scotch</hi> or <hi>Pres<g ref="char:EOLhyphen"/>byterians;</hi> If you have taken the <hi>Covenant</hi> in a worse sense, it calls rather for Repentance, then pertinacy therein, (as the <hi>Direction</hi> for taking it published by the <hi>Assembly</hi> and Parliament, will informe you.)</p>
+               <p>Let it appear you deem it too much that you have already done; minde your owne good, and cleave fast to the House of <hi>Commons,</hi> let no sorcery or Sophistry devide you from them, inforce not, nor be im<g ref="char:EOLhyphen"/>portunate with them for <hi>Church-Government,</hi> leave it to their Wise<g ref="char:EOLhyphen"/>domes to measure out unto the <hi>Clergy</hi> what may be for the quiet and profit of the People; The Lords are not to goe before the <hi>Commons</hi> in determining what concernes the Nations, their large Answer to your last <hi>City Petition</hi> for <hi>Church-Government,</hi> and suppres<g ref="char:EOLhyphen"/>sion of <hi>Conventicles,</hi> insinuates they would allure you from the Com<g ref="char:EOLhyphen"/>mons: therefore observe them watchfully, and trust them according<g ref="char:EOLhyphen"/>ly; Your Steeres-men in the City, are not so many, but that one fi<g ref="char:EOLhyphen"/>gure may number them? nor so just, but that they are known to have betrayed their trust? nor so conscionable, but that they would take as much Mony as the <hi>Scots</hi> would give, or the Lords promise, to bring their ends about: The <hi>Clergy</hi> you know, most of them that now stickle against the <hi>Separatists</hi> or <hi>Independents,</hi> doe it for their owne ends, to retaine their Glory in a distinction of <hi>Clergy,</hi> their domi<g ref="char:EOLhyphen"/>nation in judgeing of Doctrine, Discipline, and Ecclesiasticall Cen<g ref="char:EOLhyphen"/>sures, and their profit in their pretence of <hi>Tythes, &amp;c.</hi> all which the <hi>Se<g ref="char:EOLhyphen"/>paratists</hi> disdaine and oppose, which is the true cause of the quarrell between them; The <hi>Assembly</hi> are onely to advise the <hi>House of Commons</hi> when they require them, and have not dealt fairly, to side with the <hi>Scotts,</hi> or to sway with the <hi>City,</hi> or to urge the <hi>Parliament</hi> in the least.</p>
+               <p>Therefore let not any of these estrange you from that your faith<g ref="char:EOLhyphen"/>full Counsell; <hi>be wise as Serpents,</hi> arme your selves against all kinds of delusion; and be provided against the houre of tentation; for be<g ref="char:EOLhyphen"/>leve it, this <hi>City</hi> is beset round with snares, and ambushments layed to ensnare You; but there were not so much danger, were it not for the errours and mistakings in Your owne understan<g ref="char:EOLhyphen"/>dings,
+<pb n="8" facs="tcp:113496:5"/> which like a treacherous friend, lying in your bosome, is al<g ref="char:EOLhyphen"/>wayes ready to joyne issue with any trayterous seducing enemy, purge out therefore by sound and serious consideration, your for<g ref="char:EOLhyphen"/>mer unreasonable Humours, and you will soone perceive <hi>Kings are but men: That there is no respect of Persons with God; Nor ought to be with men: That no opinion is so dangerous, or hereticall, as that of com<g ref="char:EOLhyphen"/>pulsion in things of Religion:</hi> judge rightly, doe justly, abandon de<g ref="char:EOLhyphen"/>ceivers, adhere to the <hi>Commons,</hi> (whose interest is <hi>Common-freedome,</hi> and not the preh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minence of a few) and so you may be in safety: shewes of Religion, are cheap wayes of deceit: Observe those that alwayes attend the <hi>Common-good,</hi> and <hi>freedome</hi> of all Good men, and let those be your Guides and Advisers: Lay this good Councell to heart, and that instantly, for you have not much time of debate of these things; If you neglect it, you are like to bring a curse upon your selves, and the whole Nation: your latter end will be worse then your beginning, and you will be the scorne and derision of all the World; which GOD grant you may by Wisedome timely pre<g ref="char:EOLhyphen"/>vent.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113496:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
